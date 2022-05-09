@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gathigia-1
-- 👀 I’m interested in Digital Marketing  
-- 🌱 I’m currently learning google ads
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me via email mangelagathigia@gmail.com
 
